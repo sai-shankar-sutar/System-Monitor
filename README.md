@@ -12,3 +12,8 @@ A beginner-friendly system monitor script written in **Bash**, using only basic 
 2. Give execute permission:
    ```bash
    chmod +x system_monitor.sh
+
+# Run This Code:
+
+```bash
+./system_monitor.sh
